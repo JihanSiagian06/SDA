@@ -1,6 +1,6 @@
 import pandas as pd
 
-file_path = r"D:\Dokumen\punya jiann\Project\\PROJECT SDA\heart disease.csv"
+file_path = r"D:\Dokumen\punya jiann\Project\PROJECT SDA\heart disease.csv"
 df = pd.read_csv(file_path)
 
 df_info = df.info()
