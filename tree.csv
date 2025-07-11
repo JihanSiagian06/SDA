@@ -1,0 +1,7 @@
+                    [cp <= 1]
+                   /         \
+          [thal <= 2]      [oldpeak <= 1.5]
+           /      \           /         \
+      Tidak   [age > 50]   Tidak     [exang == 1]
+              /     \                   /     \
+         Tidak     Ada            Tidak     Ada
